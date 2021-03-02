@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+requests = "==2.25.0"
+ipywidgets = "==7.6.3"
+geocoder = "==1.38.1"
+mapboxgl-notebook = "==0.7"
+geojson = "==2.5.0"
+Shapely = "==1.7.1"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
