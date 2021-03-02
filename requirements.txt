@@ -1,6 +1,5 @@
 requests==2.25.0
 ipywidgets==7.6.3
-geocoder==1.38.1
 mapboxgl-notebook==0.7
 Shapely==1.7.1
 geojson==2.5.0
